@@ -1,4 +1,4 @@
-# Landing Page - Mexpenses (NEXT.JS)
+# Landing Page - Mexpenses (NEXT.JS | Typescript)
 
 TCC <b>Aplicação Web para seu controle financeiro pessoal.</b> Atualmente colaborando como Designer UX/UI e Front-end no projeto. <a href="https://fatecgarca.cps.sp.gov.br/"><em>Fatec Garça - Deputado Julio Julinho Marcondes de Moura</em></a>
 
@@ -8,4 +8,4 @@ TCC <b>Aplicação Web para seu controle financeiro pessoal.</b> Atualmente cola
 - __Plataforma__: https://github.com/HectorFront/Mexpenses
 
 ## Capturas de tela:
-<img src="public/screenshot.png" height="auto" width="100%" alt="Login">
+<img src="public/screenshot.png" height="auto" width="100%" alt="Home">
